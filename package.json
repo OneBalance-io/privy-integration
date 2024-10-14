@@ -1,0 +1,11 @@
+{
+  "name": "privy-integration",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of snippets for integration of OneBalance through Privy.",
+  "dependencies": {
+    "@privy-io/react-auth": "^1.88.3",
+    "@zerodev/sdk": "^5.3.20",
+    "permissionless": "^0.1.45",
+    "viem": "^2.17.11"
+  }
+}

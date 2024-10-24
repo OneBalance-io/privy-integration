@@ -1,6 +1,6 @@
 # OneBalance account creation
 
-Snippet available at `account-creation.ts`.
+> Snippet available at `account-creation.ts`.
 
 The snippet contains an `initializeOneBalanceAccount` function, that can be called from your client-side application, to create a OneBalance account. The function returns an address of the OneBalance account. This address can be used as the deposit address for the OneBalance account. It is worth noting that this will not actually deploy the OneBalance account on any chains - that only happens during the first transaction.
 

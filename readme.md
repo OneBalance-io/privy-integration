@@ -10,4 +10,4 @@ The snippets in this repository assume that you have already set up a Privy inte
 
 Snippets:
 
-- account creation
+- signing typed data with Privy

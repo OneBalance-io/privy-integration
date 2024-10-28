@@ -11,3 +11,9 @@ The snippets in this repository assume that you have already set up a Privy inte
 Snippets:
 
 - signing typed data with Privy
+
+## Chains
+
+Privy supports different chains. It is up to you as a developer to configure the chains you would like to support.
+
+You can find documentation on how to support different chains on the [official Privy documentation](https://docs.privy.io/guide/react/configuration/networks#configuration).
